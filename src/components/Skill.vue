@@ -65,19 +65,19 @@
                 <div class="skill-summary column is-6">
                     <div class="box skill-box">
                         <p class="skill-text">
-                            Spring Framework, eGovFrame을 활용한 웹 개발 경험
+                            <font-awesome-icon :icon="['fas','tag']"/> Spring Framework, eGovFrame을 활용한 웹 개발 경험
                         </p>
                         <br/>
                         <p class="skill-text">
-                            MariaDB 등 RDBMS 사용 경험
+                            <font-awesome-icon :icon="['fas','tag']"/> MariaDB 등 RDBMS 사용 경험
                         </p>
                         <br/>
                         <p class="skill-text">
-                            Vue.js를 사용한 개발 경험
+                            <font-awesome-icon :icon="['fas','tag']"/> Vue.js를 사용한 개발 경험
                         </p>
                         <br/>
                         <p class="skill-text">
-                            기본적인 Linux 커맨드 사용 능력
+                            <font-awesome-icon :icon="['fas','tag']"/> 기본적인 Linux 커맨드 사용 능력
                         </p>
                     </div>
                 </div>

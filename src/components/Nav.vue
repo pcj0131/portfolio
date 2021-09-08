@@ -4,19 +4,28 @@
             <div class="navbar-brand">
                 <div class="navbar-item">
                     <a class="navbar-item" v-scroll-to="'.banner-container'">
-                        HOME
+                        <font-awesome-icon :icon="['fas','home']"/>
+                        &nbsp;HOME
                     </a>
                     <a class="navbar-item" v-scroll-to="'.about-container'">
-                        ABOUT
+                        <font-awesome-icon :icon="['fas','user']"/>
+                        &nbsp;ABOUT
                     </a>
                     <a class="navbar-item" v-scroll-to="'.skill-container'">
-                        SKILL
+                        <font-awesome-icon :icon="['fas','book']"/>
+                        &nbsp;SKILL
                     </a>
                     <a class="navbar-item" v-scroll-to="'.career-container'">
-                        CAREER
+                        <font-awesome-icon :icon="['fas','briefcase']"/>
+                        &nbsp;CAREER
                     </a>
+                    <a class="navbar-item" href="./resume.pdf" target="_blank">
+                        <font-awesome-icon :icon="['fas','file']"/>
+                        &nbsp;RESUME
+                    </a>
+                    
                 </div>
-            </div>
+             </div>
         </nav>
     </section>
 </template>

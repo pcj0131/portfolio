@@ -5,6 +5,18 @@
         </div>
         <br/>
         <br/>
+        <div class="columns is-mobile">
+            <div class="column is-half is-offset-one-quarter">
+                <figure class="image is-128x128">
+                    <img class="is-rounded" src="../assets/about_pic.jpg">
+                </figure>
+                <p class="contact">
+                   <strong><font-awesome-icon :icon="['fas','mobile']"/> 010-3450-9244</strong>
+                   <br/>
+                   <font-awesome-icon :icon="['fas','envelope']"/><strong> pcj8801@gmail.com</strong>
+                </p>
+            </div>
+        </div>
         <div class="profile-container">
             <div class="columns is-mobile">
                 <p class="profile-text column is-three-fifths is-offset-one-fifth">
@@ -40,6 +52,13 @@
     }
     .profile-text {
         white-space: pre-line;
+    }
+    .image {
+        display: block;
+        margin: 0 auto;
+    }
+    .contact {
+        text-align: center;
     }
 
     @media screen and (max-width: 1024px) {

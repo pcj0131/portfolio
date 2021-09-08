@@ -37,7 +37,7 @@ export default {
                             각 공정에 필요한 문서양식 엑셀업로드/다운로드 기능 개발`,
         },
         {
-          title: '(주) 태*경식품 MES시스템 개발',
+          title: '(주) 태*식품 MES시스템 개발',
           year: '(2020.12 ~ 2021.03)',
           content: `프로젝트의 기본 설계, 상세 설계 참여
                             Java, Spring framework에 iBatis를 이용한 개발

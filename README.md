@@ -1,24 +1,5 @@
 # portfolio
 
-## Project setup
-```
-yarn install
-```
+## Vue.js와 CSS framework Bulma를 활용하여 만들었습니다.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [https://pcj0131.github.io/portfolio/](https://pcj0131.github.io/portfolio/).

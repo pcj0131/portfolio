@@ -67,12 +67,8 @@
                         <p class="skill-text">
                             <font-awesome-icon :icon="['fas','tag']"/> Spring Framework, eGovFrame을 활용한 웹 개발 경험
                         </p>
-                        <br/>                        
-                        <p class="skill-text">
-                            <font-awesome-icon :icon="['fas','tag']"/> JPA, Hibernate를 이용한 ORM방식 개발 경험
-                        </p>
                         <br/>
-                        <p class="skill-text">
+                        <p>
                             <font-awesome-icon :icon="['fas','tag']"/> JPA, Hibernate를 이용한 ORM방식 개발 경험
                         </p>
                         <br/>

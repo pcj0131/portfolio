@@ -14,6 +14,11 @@
                    <strong><font-awesome-icon :icon="['fas','mobile']"/> 010-3450-9244</strong>
                    <br/>
                    <font-awesome-icon :icon="['fas','envelope']"/><strong> pcj8801@gmail.com</strong>
+                   <br/>
+                   <font-awesome-icon :icon="['fas','code-branch']"/>
+                   <a href="https://github.com/pcj0131" style="color:black;" target="_blank">
+                     <strong> https://github.com/pcj0131</strong>
+                   </a>
                 </p>
             </div>
         </div>

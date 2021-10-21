@@ -23,7 +23,6 @@
                         <font-awesome-icon :icon="['fas','file']"/>
                         &nbsp;RESUME
                     </a>
-                    
                 </div>
              </div>
         </nav>
